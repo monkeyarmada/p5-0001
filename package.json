@@ -1,5 +1,5 @@
 {
-  "name": "@monkeyaramda/lines01",
+  "name": "@monkeyarmada/lines01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "@monkeyaramda",
+  "author": "@monkeyarmada",
   "license": "ISC",
   "devDependencies": {
     "@types/p5": "^1.6.1",
