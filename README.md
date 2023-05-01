@@ -1,8 +1,4 @@
-# p5 Base Template
-I've finally decided to reduce all the time spent flailing about with setting up p5.js project.
+# #0001
+Take a circle, add random wobble to it's verts.
 
-So here is a base template to start P5.js projects from.
-
-- code formatting with `rome`
-- `browser-sync` local development server 
-- code completion thanks to `@types/p5`
+![0001]("docs/0001.png")
